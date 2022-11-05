@@ -1,0 +1,1 @@
+# no site W3C validation service podemos fazer uma verificação se nossa página html está OK
